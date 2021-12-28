@@ -51,4 +51,4 @@ sudo apt-get install mariadb-server
 
 echo "starting interactive mariadb configuration from the mariadb package's script"
 /bin/sleep 3s
-mariadb-install-db
+sudo mariadb-install-db
