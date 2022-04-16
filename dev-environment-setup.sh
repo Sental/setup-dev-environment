@@ -8,7 +8,7 @@ sudo apt-get install apt-transport-https software-properties-common dirmngr
 #sudo apt install php7.4 php7.4-pdo php7.4-curl php7.4-mysqlnd php7.4-opcache php7.4-xml php7.4-gd php7.4-mysql php7.4-intl php7.4-mbstring php7.4-bcmath php7.4-json php7.4-iconv php7.4-soap php7.4-zip php-dev
 
 # 8.1
-sudo apt install php8.1 php8.1-pdo php8.1-curl php8.1-mysqlnd php8.1-opcache php8.1-xml php8.1-gd php8.1-mysql php8.1-intl php8.1-mbstring php8.1-bcmath php8.1-json php8.1-iconv php8.1-soap php8.1-zip php-dev php8.1-fpm
+sudo apt install php8.1 php8.1-pdo php8.1-curl php8.1-mysqlnd php8.1-opcache php8.1-xml php8.1-gd php8.1-mysql php8.1-intl php8.1-mbstring php8.1-bcmath php8.1-iconv php8.1-soap php8.1-zip php-dev php8.1-fpm
 
 # git & unzip
 sudo apt install unzip git
